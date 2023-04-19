@@ -55,7 +55,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 
 #### Functional Programming
 
-* [Functional Principles for Object-Oriented Developers](http://www.youtube.com/watch?v=pMGY9ViIGNU) by **Jessica Kerr** [51:13]
+- [x] [Functional Principles for Object-Oriented Developers](http://www.youtube.com/watch?v=pMGY9ViIGNU) by **Jessica Kerr** [51:13]
 * [Adventures in Functional Programming](https://vimeo.com/45140590) by **Jim Weirich** [50:34]
 * [Functional Programming: What? Why? When?](https://vimeo.com/97514630) by **Robert C. Martin** [58:26]
 * [Deconstructing Functional Programming](http://www.infoq.com/presentations/functional-pros-cons) by **Gilad Bracha** [48:33]
